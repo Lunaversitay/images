@@ -1,3 +1,3 @@
-# byeah
+# java bundle
 
-branches have images
+bundles java for linux memes
