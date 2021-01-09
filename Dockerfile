@@ -5,7 +5,7 @@ LABEL author="Lunaversity" maintainer="lunaversitay@gmail.com"
 RUN mkdir -p /usr/share/man/man1
 
 RUN apt-get update -y \
-    && apt-get install -y -f curl ca-certificates openssl git tar sqlite fontconfig tzdata iproute2 wget openjdk-11-jre \
+    && apt-get install -y -f curl ca-certificates openssl git tar sqlite fontconfig tzdata iproute2 openjdk-11-jre \
     && useradd -d /home/container -m container
 
 USER container
