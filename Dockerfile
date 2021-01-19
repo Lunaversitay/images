@@ -2,6 +2,8 @@ FROM ubuntu:18.04
 
 LABEL author="Lunaversity" maintainer="lunaversitay@gmail.com"
 
+ARG DEBIAN_FRONTEND=noninteractive
+
 RUN mkdir -p /usr/share/man/man1
 
 RUN apt-get update -y \
