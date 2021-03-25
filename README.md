@@ -6,4 +6,4 @@ This is just a repo of docker container images I made for things. Feel free to u
 - ![Java 8 and 11 bundle](https://github.com/Lunaversitay/images/tree/java-bundle)
 
 ### Looking to start your own host or need an amazing gamepanel? Use https://wisp.gg - the gamepanel people are trying to copy
-![](https://media.discordapp.net/attachments/591377140625440768/591728218105708555/wispc5-01.png)
+[![WISP Gamepanel](https://i.imgur.com/cBU1bnR.png)](https://wisp.gg)
