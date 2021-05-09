@@ -2,9 +2,9 @@
 
 This image is mostly made to resolve the Minecraft issue with 1.12.2 (and under) builds only really supporting Java 8 whether it be through mods and what not, and the newer versions needing Java 11 after 1.17
 
-I've made a small little guide if you're using the ![WISP Gamepanel](https://wisp.gg) so it should be fairly easy to get setup for yourself!
+I've made a small little guide if you're using the [WISP Gamepanel](https://wisp.gg) so it should be fairly easy to get setup for yourself!
 
-# Using the image for your Minecraft server using ![WISP Gamepanel](https://wisp.gg)
+# Using the image for your Minecraft server using [WISP Gamepanel](https://wisp.gg)
 
 Note: If you have a large amount of existing servers already it would be best to create a new egg for new orders to be placed on this egg as the Docker Image currently doesn't mass change to all servers and will have to be changed manually. (Startup Parameters however will mass change unless they where manually edited)
 
@@ -22,4 +22,4 @@ Note: If you have a large amount of existing servers already it would be best to
 Note: If you have existing servers you will have to change the Docker Image to `quay.io/lunaversity/eggs:java-bundle` on the existing servers for them to utilize Java 8 and 11.
 Refer to the first note for the solution to a large amount of existing servers.
 
-That's pretty much it, if you have anything you'd like answering you can ask in the ![WISP Discord](https://wisp.gg/discord) and someone should be-able to help you in the eggs channel.
+That's pretty much it, if you have anything you'd like answering you can ask in the [WISP Discord](https://wisp.gg/discord) and someone should be-able to help you in the eggs channel.
